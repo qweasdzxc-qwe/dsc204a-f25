@@ -14,7 +14,7 @@ Oct 21
 
 Oct 23
 : **9**{: .label} Parallelism
-  : [Slides](assets/slides/9. parallelism-1.pdf) &#8226;&#8226; [Recording]()
+  : [Slides](assets/slides/9. parallelism-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/9)
 : **Readings**{: .label .label-reading}  **(Due 10/29)**
   * **Required**: [Google File System](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf)
   * **Optional**: [The Snowflake Elastic Data Warehouse](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf)
