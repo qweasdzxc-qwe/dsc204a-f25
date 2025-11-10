@@ -6,8 +6,7 @@ status: Active
 
 Oct 28
 : **10**{: .label} Batch processing, map-reduce
-  : [Slides](assets/slides/10. parallelism-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/10) 
-  <!-- &#8226; [Notes](assets/scribe_notes/oct28_scribe.pdf) -->
+  : [Slides](assets/slides/10. parallelism-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/10) &#8226; [Notes](assets/scribe_notes/oct28_scribe.pdf)
 : **Readings**{: .label .label-reading}  **(Due 11/12)**
   * **Required**: [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   * **Optional**: [Delay Scheduling: A Simple Technique for Achieving Locality and Fairness in Cluster Scheduling](https://people.eecs.berkeley.edu/~matei/papers/2010/eurosys_delay_scheduling.pdf)
