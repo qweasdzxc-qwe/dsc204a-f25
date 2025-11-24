@@ -13,6 +13,6 @@ Nov 25
 
 Nov 27
 : **17**{: .label} Holiday 
-: **Readings**{: .label .label-reading}  **(Due 12/3)**
+: **Readings**{: .label .label-reading}  **(Due 12/3: 5 papers in total, 2.5 pages needed)**
   * **Required**: [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180.pdf)
   * **Optional**: [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023)
