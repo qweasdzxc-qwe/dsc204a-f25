@@ -5,8 +5,8 @@ status: Active
 ---
 
 Nov 25 
-: **16**{: .label} 
-  <!-- : [Slides](assets/slides/xx.pdf)  -->
+: **16**{: .label} Autodiff, MLSys overview, LLM architectures
+  : [Slides](assets/slides/13. mlsys-2.pdf)  
 : **Readings**{: .label .label-reading}  **(Due 12/3)**
   * **Required**: [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
   * **Optional**: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
