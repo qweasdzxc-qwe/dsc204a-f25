@@ -5,12 +5,12 @@ status: Active
 ---
 
 Nov 11 
-: **14**{: .label} Holiday
+: Holiday
 
 
 
 Nov 13
-: **15**{: .label} Guest Lecture - [Shreya Shankar](https://www.sh-reya.com/)
+: **14**{: .label} Guest Lecture - [Shreya Shankar](https://www.sh-reya.com/)
   : [Recording](https://drive.google.com/file/d/18W1hZl46MTsJqKfyetU2H5wswJRheGX6/view?usp=sharing) &#8226; [Notes](assets/scribe_notes/nov13_scribe.pdf)
 
 : **Readings**{: .label .label-reading}  **(Due 12/3)**
