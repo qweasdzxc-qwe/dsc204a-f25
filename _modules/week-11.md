@@ -4,10 +4,13 @@ class: DSC204A
 status: Active
 ---
 
-Dec 2 
-: **18**{: .label} 
-  <!-- : [Slides]() -->
+Dec 2
+: **18**{: .label} LLM, attention, inference and serving
+  : [Slides](assets/slides/14. mlsys-3.pdf)  &#8226; [Recording]()
+: **Readings**{: .label .label-reading} No required readings!
+  * **Optional**: [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192)
 
-Dec 4 
-: **19**{: .label} Review
-  <!-- : [Slides]() -->
+Dec 4
+: **19**{: .label} LLM, training
+: **Readings**{: .label .label-reading} No required readings!
+  * **Optional**: [Deepseek-v3 Technical Report](https://arxiv.org/pdf/2412.19437)
